@@ -22,4 +22,3 @@ def valid_phone_number?(phone)
 end
 
 
-p starts_with_a_vowel?('evil')
